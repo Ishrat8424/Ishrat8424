@@ -33,17 +33,6 @@ I'm a passionate Computer Science student from India with a keen interest in tur
 
 ---
 
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishrat8424&show_icons=true&theme=radical&count_private=true" alt="Ishrat's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishrat8424&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
