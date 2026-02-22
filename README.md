@@ -1,26 +1,22 @@
 # Hi 👋, I'm Ishrat Jahan
-### A passionate CSE student & aspiring Data Analyst from India
+### 🚀 Aspiring Data Analyst | CSE Student | Problem Solver
 
-- 🌱 I’m currently learning **Python, Data Analytics & SQL**
-- 👯 I’m looking to collaborate on **Data Analysis & Web Projects**
-- 💬 Ask me about **Python, SQL, Data Analytics**
-- 📫 How to reach me: **ijkhazi4@gmail.com**
-- ⚡ Fun fact: I love problem-solving & teamwork  
+I'm a passionate Computer Science student from India with a keen interest in turning raw data into meaningful insights. I enjoy the challenge of complex problem-solving and thrive in collaborative environments.
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishrat8424&show_icons=true&theme=radical)
+### 🛠️ Skills & Toolbox
 
-### 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishrat8424&layout=compact&theme=tokyonight)
-
----
-
-### 🛠️ Languages & Tools
-<p>
+**Data & Programming**
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Web Development**
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,6 +24,30 @@
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ishrat-jahan-9250b5300)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijkhazi4@gmail.com)  
+### 🔍 Focus Areas
+
+- 🌱 **Currently Learning:** Advanced Data Analytics, SQL Optimization, and Machine Learning basics.
+- 👯 **Looking to Collaborate:** Open-source Data Analysis projects and Web Development.
+- 💬 **Ask Me About:** Python scripts, Database queries, or why I love clean data.
+- ⚡ **Fun Fact:** I believe every dataset has a story; I just help tell it.
+
+---
+
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishrat8424&show_icons=true&theme=radical&count_private=true" alt="Ishrat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishrat8424&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishrat-jahan-9250b5300)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijkhazi4@gmail.com)
+
+---
