@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ishrat Jahan
-### 🚀 Aspiring Data Analyst | CSE Student | Problem Solver
+### 🚀 Aspiring Software Engineer | CSE Student | Problem Solver
 
 I'm a passionate Computer Science student from India with a keen interest in turning raw data into meaningful insights. I enjoy the challenge of complex problem-solving and thrive in collaborative environments.
 
