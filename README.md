@@ -1,165 +1,319 @@
-# Hi 👋, I'm Ishrat Jahan
+{`<!-- ===================================================== -->
+<!--           ISHRAT JAHAN - GITHUB PROFILE README        -->
+<!-- ===================================================== -->
 
-### 🚀 Computer Science Engineering Student | Aspiring Software Engineer | Problem Solver
+<div align="center">
 
-I'm a **Computer Science Engineering student** passionate about building practical software solutions and solving problems through code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Ishrat%20Jahan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-I enjoy working across **software development, data, and AI**, with a particular interest in understanding how applications, databases, and data-driven systems work together.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Developer+%E2%98%95;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%9A%80;SQL+%7C+AI+%7C+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Ideas+Into+Real+Projects+%E2%9C%A8"/>
 
-Currently, I'm strengthening my skills in **Java, Data Structures & Algorithms, Full-Stack Development, SQL, and Machine Learning**, while building real-world projects to apply what I learn.
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-38BDF8?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/FullStack-MERN-7C3AED?style=for-the-badge&logo=react"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👋 About Me
 
-### 💻 Programming & Problem Solving
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+I'm **Ishrat Jahan**, a Computer Science Engineering student passionate about designing practical software solutions and solving real-world problems through technology.
+
+I enjoy working at the intersection of **Software Development, Databases, AI and Data-Driven Applications**.
+
+🎓 **B.E Computer Science Engineering**
+
+📊 **CGPA : 8.88**
+
+💻 Aspiring **Software Engineer**
+
+🌱 Currently mastering **Java, DSA, SQL, MERN Stack & Machine Learning**
+
+<br clear="right"/>
+
+---
+
+# 🧠 Developer Universe
+
+<div align="center">
+
+| 💡 Think | ⚙️ Build | 🚀 Deploy |
+|---|---|---|
+| Data Structures | Full Stack Apps | REST APIs |
+| Problem Solving | Database Systems | Git & GitHub |
+| OOP Design | React + Node | Cloud Learning |
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
+
 </p>
 
-**Core:** Data Structures & Algorithms • OOP • Problem Solving
+## 🌐 Full Stack
 
-### 🌐 Full-Stack Development
+<p align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
+
 </p>
 
-**Backend:** Node.js • Express.js • REST APIs
+## 🗄️ Database
 
-### 🗄️ Databases
+<p align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
 </p>
 
-### 📊 Data & AI
+## 🤖 Data & AI
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+
 </p>
 
-Interested in **Data Analytics, Machine Learning, Data Engineering, and AI-driven applications**.
+## 🔧 Tools
 
-### 🔧 Tools
+<p align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
----
-
-## 🚀 Featured Projects
-
-### 🖥️ Personal Portfolio Management System
-
-A full-stack portfolio management application that allows portfolio content to be managed dynamically through an admin dashboard.
-
-**Features:**
-
-* 🔐 Authentication & protected routes
-* 📁 Project and experience management
-* 📩 Contact message management
-* 🖼️ Image and resume upload
-* 🌐 REST API integration
-* 🗄️ MongoDB database
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
----
-
-### 🔍 Code Visualizer — C Execution & Memory Visualization
-
-A web-based tool designed to help students understand **C program execution and memory concepts** through interactive visualization.
-
-**Focus Areas:**
-
-* Step-by-step code execution
-* Stack and heap visualization
-* Variables and pointers
-* Memory allocation
-* C compilation and execution
-
-**Tech:** React.js • Node.js • MongoDB • GCC
-
----
-
-### 📈 TradeVerse — Stock Trading Simulation Platform
-
-A full-stack stock trading simulation platform inspired by modern trading applications.
-
-**Features:**
-
-* Portfolio dashboard
-* Holdings and positions
-* Order management
-* RESTful APIs
-* Frontend-backend integration
-* MongoDB-based data management
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Mongoose
-
----
-
-## 🎯 Current Focus
-
-* 🧩 Improving **Data Structures & Algorithms**
-* ☕ Strengthening **Java & OOP**
-* 🗄️ Practicing **SQL & DBMS**
-* 🌐 Building **Full-Stack Applications**
-* 🤖 Learning **Machine Learning & AI**
-* 📊 Exploring **Data Analytics & Data Engineering**
-* 🚀 Preparing for **Software Engineering opportunities**
-
----
-
-## 🏆 Achievements & Activities
-
-* 🎓 B.E. Computer Science Engineering — CGPA **8.88**
-* 🌟 Selected for **Infosys Pragati: Path to Future for Women**
-* 🛰️ **A+ Grade — ISRO START Programme**
-* 💻 IEEE Student Member & IEEE Computer Society Member
-* 🏆 Global Project Contributor — **IBM Z Datathon**
-* 🚀 Participant — **Kyndryl & Microsoft Code4Bharat Hackathon**
-* 👩‍🏫 Letter of Appreciation for teaching Computer & Spoken English
-* ☁️ Completed multiple **Microsoft Learn** learning plans in AI, Cloud & Microsoft 365
-
----
-
-## 💡 What I Believe
-
-> **Every problem is an opportunity to learn, build, and improve.**
-
-I'm continuously learning, experimenting with new technologies, and turning ideas into working projects.
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishrat-jahan-9250b5300">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ijkhazi4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 🚀 Featured Projects
 
-*Always learning. Always building. Always improving.*
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🖥️ Personal Portfolio Management
+
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80"/>
+
+Dynamic full-stack portfolio platform with secure admin dashboard.
+
+**Highlights**
+
+- 🔐 JWT Authentication
+- 📁 Project CRUD
+- 📩 Contact Management
+- 🖼 Resume Upload
+- 🌐 REST APIs
+
+**Stack**
+
+React • Node • Express • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🔍 Code Visualizer
+
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=80"/>
+
+Interactive educational platform to visualize C program execution.
+
+**Highlights**
+
+- Step-by-step execution
+- Stack visualization
+- Heap visualization
+- Pointer concepts
+- Memory allocation
+
+**Stack**
+
+React • Node • MongoDB • GCC
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 TradeVerse
+
+<img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80"/>
+
+Stock trading simulation inspired by modern investment platforms.
+
+**Highlights**
+
+- Portfolio Dashboard
+- Holdings
+- Buy/Sell Orders
+- Position Tracking
+- MongoDB Data Layer
+
+**Stack**
+
+React • Express • Node • Mongoose
+
+</td>
+
+<td width="50%">
+
+### 🤖 Predictive Maintenance
+
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80"/>
+
+Machine learning based predictive maintenance using Digital Twin concepts.
+
+**Focus**
+
+- Sensor preprocessing
+- Remaining Useful Life
+- Failure Prediction
+- Risk Analysis
+- AI-driven optimization
+
+**Stack**
+
+Python • ML • Data Analytics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Learning Roadmap
+
+<div align="center">
+
+```text
+                 ┌──────────────────────┐
+                 │   SOFTWARE ENGINEER  │
+                 └──────────┬───────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       Java & DSA       Full Stack        SQL & DBMS
+          │                 │                 │
+      Problem Solving    MERN Projects    Query Optimization
+          │                 │                 │
+          └──────────── AI & ML ────────────┘
+```
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Status |
+|---|---|
+| 🎓 B.E CSE | CGPA **8.88** |
+| 🌟 Infosys Pragati | Selected |
+| 🛰 ISRO START Programme | **A+ Grade** |
+| 💻 IEEE Student Member | Active |
+| 🧠 IEEE Computer Society | Member |
+| 🏆 IBM Z Datathon | Global Contributor |
+| 🚀 Code4Bharat Hackathon | Participant |
+| 👩‍🏫 Teaching Appreciation | Received |
+| ☁ Microsoft Learn | AI & Cloud Learning |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishrat8424&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishrat8424&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishrat8424&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+</div>
+
+---
+
+# 🧩 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishrat8424&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 🌟 Engineering Mindset
+
+<div align="center">
+
+> *Every problem is an opportunity to learn, build and improve.*
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ishrat-jahan-9250b5300">
+
+<img src="https://img.shields.io/badge/LinkedIn-Ishrat%20Jahan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:ijkhazi4@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-ijkhazi4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ishrat8424&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Always Learning • Always Building • Always Improving
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:38BDF8&height=120&section=footer"/>
+
+</div>`}
