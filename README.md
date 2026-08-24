@@ -1,4 +1,4 @@
-{`<!-- ===================================================== -->
+<!-- ===================================================== -->
 <!--           ISHRAT JAHAN - GITHUB PROFILE README        -->
 <!-- ===================================================== -->
 
@@ -6,47 +6,65 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=220&section=header&text=Ishrat%20Jahan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Developer+%E2%98%95;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%9A%80;SQL+%7C+AI+%7C+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Ideas+Into+Real+Projects+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Developer+%E2%98%95;DSA+%26+Problem+Solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%9A%80;SQL+%7C+AI+%7C+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Ideas+Into+Real+Solutions+%E2%9C%A8"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-38BDF8?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/FullStack-MERN-7C3AED?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Java-DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ishrat8424&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Ishrat Jahan**, a Computer Science Engineering student passionate about designing practical software solutions and solving real-world problems through technology.
+Hi! I'm **Ishrat Jahan**, a Computer Science Engineering student passionate about building practical software solutions and solving challenging problems through code.
 
-I enjoy working at the intersection of **Software Development, Databases, AI and Data-Driven Applications**.
+I enjoy working across **Software Development, Data, Databases and AI**, with a strong interest in understanding how scalable applications and intelligent systems work together.
 
-🎓 **B.E Computer Science Engineering**
-
-📊 **CGPA : 8.88**
-
-💻 Aspiring **Software Engineer**
-
-🌱 Currently mastering **Java, DSA, SQL, MERN Stack & Machine Learning**
+- 🎓 B.E. in **Computer Science & Engineering**
+- 📊 CGPA: **8.88**
+- 💻 Aspiring **Software Engineer**
+- ☕ Strengthening **Java & DSA**
+- 🌐 Building skills in **Full-Stack Development**
+- 🗄️ Practicing **SQL & DBMS**
+- 🤖 Exploring **Machine Learning & AI**
+- 🚀 Preparing for **Software Engineering opportunities**
 
 <br clear="right"/>
 
 ---
 
-# 🧠 Developer Universe
+# 💻 Software Engineering Profile
 
 <div align="center">
 
-| 💡 Think | ⚙️ Build | 🚀 Deploy |
+| 🧠 Core CS | ⚙️ Development | 🗄️ Data & Backend |
 |---|---|---|
-| Data Structures | Full Stack Apps | REST APIs |
-| Problem Solving | Database Systems | Git & GitHub |
-| OOP Design | React + Node | Cloud Learning |
+| Data Structures & Algorithms | Full-Stack Development | SQL & DBMS |
+| Object-Oriented Programming | REST API Development | MongoDB |
+| Problem Solving | React.js | Database Design |
+| Operating Systems | Node.js & Express.js | Data Analytics |
+| Computer Networks | Git & GitHub | Data Engineering |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Development-Full%20Stack-38BDF8?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-SQL%20%7C%20MongoDB-22C55E?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
 
@@ -54,157 +72,95 @@ I enjoy working at the intersection of **Software Development, Databases, AI and
 
 # ⚡ Tech Stack
 
-## 💻 Languages
+## 💻 Programming Languages
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark"/>
 
-</p>
+<br/><br/>
 
-## 🌐 Full Stack
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<p align="center">
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
+## 🌐 Full-Stack Development
 
-</p>
+<div align="center">
 
-## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express&theme=dark"/>
 
-<p align="center">
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-REST-7C3AED?style=for-the-badge"/>
+
+</div>
+
+## 🗄️ Databases
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
 
 ## 🤖 Data & AI
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
 
-</p>
+</div>
 
-## 🔧 Tools
+## 🔧 Developer Tools
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧩 DSA & Problem Solving
 
-<table>
+<div align="center">
 
-<tr>
+<img src="https://img.shields.io/badge/Arrays-DSA-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Strings-DSA-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashing-DSA-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recursion-DSA-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trees-DSA-0EA5E9?style=for-the-badge"/>
 
-<td width="50%">
+<br/><br/>
 
-### 🖥️ Personal Portfolio Management
+<img src="https://img.shields.io/badge/OOP-Core%20CS-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-Core%20CS-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-Core%20CS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-Core%20CS-22C55E?style=for-the-badge"/>
 
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80"/>
-
-Dynamic full-stack portfolio platform with secure admin dashboard.
-
-**Highlights**
-
-- 🔐 JWT Authentication
-- 📁 Project CRUD
-- 📩 Contact Management
-- 🖼 Resume Upload
-- 🌐 REST APIs
-
-**Stack**
-
-React • Node • Express • MongoDB
-
-</td>
-
-<td width="50%">
-
-### 🔍 Code Visualizer
-
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=80"/>
-
-Interactive educational platform to visualize C program execution.
-
-**Highlights**
-
-- Step-by-step execution
-- Stack visualization
-- Heap visualization
-- Pointer concepts
-- Memory allocation
-
-**Stack**
-
-React • Node • MongoDB • GCC
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📈 TradeVerse
-
-<img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80"/>
-
-Stock trading simulation inspired by modern investment platforms.
-
-**Highlights**
-
-- Portfolio Dashboard
-- Holdings
-- Buy/Sell Orders
-- Position Tracking
-- MongoDB Data Layer
-
-**Stack**
-
-React • Express • Node • Mongoose
-
-</td>
-
-<td width="50%">
-
-### 🤖 Predictive Maintenance
-
-<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80"/>
-
-Machine learning based predictive maintenance using Digital Twin concepts.
-
-**Focus**
-
-- Sensor preprocessing
-- Remaining Useful Life
-- Failure Prediction
-- Risk Analysis
-- AI-driven optimization
-
-**Stack**
-
-Python • ML • Data Analytics
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
@@ -213,107 +169,22 @@ Python • ML • Data Analytics
 <div align="center">
 
 ```text
-                 ┌──────────────────────┐
-                 │   SOFTWARE ENGINEER  │
-                 └──────────┬───────────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-       Java & DSA       Full Stack        SQL & DBMS
-          │                 │                 │
-      Problem Solving    MERN Projects    Query Optimization
-          │                 │                 │
-          └──────────── AI & ML ────────────┘
-```
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Status |
-|---|---|
-| 🎓 B.E CSE | CGPA **8.88** |
-| 🌟 Infosys Pragati | Selected |
-| 🛰 ISRO START Programme | **A+ Grade** |
-| 💻 IEEE Student Member | Active |
-| 🧠 IEEE Computer Society | Member |
-| 🏆 IBM Z Datathon | Global Contributor |
-| 🚀 Code4Bharat Hackathon | Participant |
-| 👩‍🏫 Teaching Appreciation | Received |
-| ☁ Microsoft Learn | AI & Cloud Learning |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishrat8424&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishrat8424&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishrat8424&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-</div>
-
----
-
-# 🧩 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishrat8424&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 🌟 Engineering Mindset
-
-<div align="center">
-
-> *Every problem is an opportunity to learn, build and improve.*
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ishrat-jahan-9250b5300">
-
-<img src="https://img.shields.io/badge/LinkedIn-Ishrat%20Jahan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:ijkhazi4@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-ijkhazi4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ishrat8424&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Always Learning • Always Building • Always Improving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:38BDF8&height=120&section=footer"/>
-
-</div>`}
+                 ┌────────────────────────┐
+                 │   SOFTWARE ENGINEER    │
+                 └───────────┬────────────┘
+                             │
+            ┌────────────────┼────────────────┐
+            │                │                │
+       ☕ Java & DSA    🌐 Full Stack    🗄️ SQL & DBMS
+            │                │                │
+      Problem Solving     MERN Stack      Database Design
+            │                │                │
+      Core Algorithms     REST APIs       Query Practice
+            │                │                │
+            └───────────┬────┴───────────────┘
+                        │
+                   🤖 AI & ML
+                        │
+                 Data Analytics
+                        │
+                 Data Engineering
